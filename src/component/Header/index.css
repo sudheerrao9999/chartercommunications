@@ -1,0 +1,10 @@
+.app-header {
+  display: flex;
+  flex: 1;
+  background-color: forestgreen;
+  padding: 0px 20px;
+}
+
+.app-header h2 {
+  color: white;
+}
